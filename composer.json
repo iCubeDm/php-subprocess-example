@@ -1,0 +1,19 @@
+{
+  "name"             : "icubedm/php-subprocess-example",
+  "description"      : "An example for using Symfony Process Component and async php execution.",
+  "minimum-stability": "dev",
+  "license"          : "no",
+  "authors"          : [
+    {
+      "name" : "Dmitry Yakubovsky",
+      "email": "icubedm@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": { "": "src/" }
+  },
+  "require": {
+    "symfony/console": "^3.0@dev",
+    "symfony/process": "^3.0@dev"
+  }
+}
