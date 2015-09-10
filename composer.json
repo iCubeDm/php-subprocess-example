@@ -1,8 +1,5 @@
 {
-  "name"             : "icubedm/php-subprocess-example",
   "description"      : "An example for using Symfony Process Component and async php execution.",
-  "minimum-stability": "dev",
-  "license"          : "no",
   "authors"          : [
     {
       "name" : "Dmitry Yakubovsky",
